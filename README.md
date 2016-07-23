@@ -1,2 +1,2 @@
-# AngularJSexperience
-A personal project to get AngularJS experience
+# AngularExperience
+A personal project to get AngularJS knowledge integrated with ASP.NET MVC
